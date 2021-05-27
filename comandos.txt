@@ -1,8 +1,7 @@
 git init 
 git add *
 git commit -m  "Initial commit"
-git remote add origin   REPO
-git push 
+git remote add origin   REPOSITORIO
 
 git push  --set-upstream origin master
 

@@ -1,0 +1,16 @@
+git init 
+git add *
+git commit -m  "Initial commit"
+git remote add origin   REPO
+git push 
+
+git push  --set-upstream origin master
+
+git status
+
+
+/*
+npm install  -g  @aws-amplify/cli  
+    Successfully installed the amplify CI 
+
+¨/
